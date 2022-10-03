@@ -4,10 +4,8 @@ Repository for Academic Year 2022 (HT22 and VT23) Pareto Workshops
 ### Links
 
 Discord servers <br>
-[Workshops (AY22)](https://discord.gg/GN32mnXfYK)
-
-[ParetoPy (AY21)](https://discord.gg/HE2rXb4xYq)
-
+[Workshops (AY22)](https://discord.gg/GN32mnXfYK) <br>
+[ParetoPy (AY21)](https://discord.gg/HE2rXb4xYq) <br>
 [Pareto Seminars (AY21)](https://discord.gg/HE2rXb4xYq)
 
 Python+Pints <br>
